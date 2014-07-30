@@ -35,7 +35,7 @@
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="RubiksCore">
-      <HintPath>..\packages\RubiksCore.1.0.0.2\lib\net45\RubiksCore.dll</HintPath>
+      <HintPath>..\packages\RubiksCore.1.0.0.3\lib\net45\RubiksCore.dll</HintPath>
     </Reference>
     <Reference Include="System" />
     <Reference Include="System.Core" />
